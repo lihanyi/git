@@ -6,4 +6,6 @@ public interface itemsDao {
     public Items findById(Integer id);
 
     public void test();
+
+    public void test1();
 }
